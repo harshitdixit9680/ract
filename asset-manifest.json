@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ract/static/css/main.5cc5e290.css",
+    "main.js": "/ract/static/js/main.5251e6cf.js",
+    "static/media/annie-spratt-oT7_v-I0hHg-unsplash.jpg": "/ract/static/media/annie-spratt-oT7_v-I0hHg-unsplash.cd681163de0a9e424403.jpg",
+    "static/media/7u1gma9g_matar-paneer_625x300_06_July_22.png": "/ract/static/media/7u1gma9g_matar-paneer_625x300_06_July_22.00931d9ac451543ba937.png",
+    "static/media/231fdae7-bfa3-4559-bd29-f3f04570ef68-removebg-preview.png": "/ract/static/media/231fdae7-bfa3-4559-bd29-f3f04570ef68-removebg-preview.b88de6da685b5d27a9c5.png",
+    "static/media/Dal-Makhani-1.jpg": "/ract/static/media/Dal-Makhani-1.bb3b98ff1e803e5f5020.jpg",
+    "static/media/245365353_105301948605724__n (1).jpg": "/ract/static/media/245365353_105301948605724_3540914780267730231_n (1).128b6411089c23ad43c7.jpg",
+    "static/media/dhaba.jpg": "/ract/static/media/dhaba.7136b47bee1c524e9154.jpg",
+    "static/media/dal-bati-churma-720x620.jpg": "/ract/static/media/dal-bati-churma-720x620.a37507c06b8e9c4064c8.jpg",
+    "static/media/paneer-butter-masala-recipe-2.jpg": "/ract/static/media/paneer-butter-masala-recipe-2.3a528fadee913fd19397.jpg",
+    "index.html": "/ract/index.html",
+    "main.5cc5e290.css.map": "/ract/static/css/main.5cc5e290.css.map",
+    "main.5251e6cf.js.map": "/ract/static/js/main.5251e6cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5cc5e290.css",
+    "static/js/main.5251e6cf.js"
+  ]
+}
