@@ -1,0 +1,39 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&family=Miss+Fajardose&display=swap');
+
+.heading-section .subheading {
+    position: absolute;
+    top: -48px;
+    left: 0;
+    right: 0;
+    font-weight: normal;
+    font-size: 7rem;
+    display: block;
+    margin-bottom: 0;
+    color: rgba(0, 0, 0, 0.2);
+    color: #ffa323;
+    line-height: 1;
+    font-family: "Miss Fajardose", cursive;
+    margin-top: -13px;
+    z-index: -1;
+}
+   .h2 {
+        font-weight: 600 !important;
+    }
+    .suu {
+        font-size: 50px;
+        font-weight: 900;
+    }
+    .WOO{
+        font-size: 50px;
+        color: black;
+        font-weight: 600;
+    }
+    p{
+        font-size: 17px;
+        line-height: 2;
+        font-weight: 400;
+        color: #666666;
+    }
+
+

@@ -1,0 +1,51 @@
+@import url("https://fonts.googleapis.com/css2?family=Baloo+Bhai+2&family=Mulish&family=Poppins&display=swap");
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", Arial, sans-serif;
+    background: #fff;;
+    font-size: 17px;
+    line-height: 2;
+    font-weight: 400;
+    color: #000000;
+}
+.ftco-footer p {
+    color: rgba(255, 255, 255, 0.7);
+}
+
+
+
+.callusftr {
+    padding: 5px 10px;
+    position: fixed;
+    bottom: 0;
+    z-index: 1000;
+    font-size: 18px;
+    background-color: #ffa323;
+    color: #fff;
+}
+.callusftr.apf {
+    right: 30px;
+}
+
+.callusftr.apd {
+    left: 30px;
+}
+
+.callusftr a,
+.callusftr a:hover,
+.callusftr a:focus {
+color: #fff;
+text-decoration: none;
+}
+
+.callusftr i {
+margin-right: 5px;
+}
+@media(max-width: 500px) {
+    .callusftr{
+        display: none;
+    }
+}
