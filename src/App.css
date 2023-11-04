@@ -9876,10 +9876,11 @@ textarea.form-control {
 }
 
   /* ./Services */
-
   .navbar-brand img {
-    width: 40%;
+    width: 102%;
+    /* padding-right: 201px; */
 }
+
 
 
 /* aboutus block */
@@ -10215,9 +10216,12 @@ input, select {
   border-radius: .25em;
   }
 
+.img-fluidis {
+  max-width: 98%;
+    height: auto;
+    padding-left: 42px;
 
-
-
+}
 
 
 
