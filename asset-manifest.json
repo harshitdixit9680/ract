@@ -1,21 +1,35 @@
 {
   "files": {
-    "main.css": "/ract/static/css/main.5cc5e290.css",
-    "main.js": "/ract/static/js/main.5251e6cf.js",
+    "main.css": "/ract/static/css/main.45cb26a9.css",
+    "main.js": "/ract/static/js/main.05bdeabc.js",
     "static/media/annie-spratt-oT7_v-I0hHg-unsplash.jpg": "/ract/static/media/annie-spratt-oT7_v-I0hHg-unsplash.cd681163de0a9e424403.jpg",
+    "static/media/Tandoori Paneer Tikka.jpg": "/ract/static/media/Tandoori Paneer Tikka.19af289ff5f6cec46bcf.jpg",
+    "static/media/yellow_dal.jpg": "/ract/static/media/yellow_dal.b11885fd17efd57e994a.jpg",
+    "static/media/Butter_Roti.jpg": "/ract/static/media/Butter_Roti.00471f354c98dea37f93.jpg",
+    "static/media/Kadhai Paneer.jpg": "/ract/static/media/Kadhai Paneer.ceddd4285b15187fc242.jpg",
+    "static/media/Roomali Roti.jpg": "/ract/static/media/Roomali Roti.577e1b4884d5762571d7.jpg",
+    "static/media/plain_Naan.jpg": "/ract/static/media/plain_Naan.4816c8de0f8481bc0772.jpg",
+    "static/media/Tandoori.jpg": "/ract/static/media/Tandoori.2afae365af22e53bfde8.jpg",
+    "static/media/steamed-rice-with-seafood-calamary-corns-carrot-peas-side-view (1) (1).jpg": "/ract/static/media/steamed-rice-with-seafood-calamary-corns-carrot-peas-side-view (1) (1).52bbd625a9aea5b13af0.jpg",
     "static/media/7u1gma9g_matar-paneer_625x300_06_July_22.png": "/ract/static/media/7u1gma9g_matar-paneer_625x300_06_July_22.00931d9ac451543ba937.png",
     "static/media/231fdae7-bfa3-4559-bd29-f3f04570ef68-removebg-preview.png": "/ract/static/media/231fdae7-bfa3-4559-bd29-f3f04570ef68-removebg-preview.b88de6da685b5d27a9c5.png",
+    "static/media/Lachha-Paratha-1 (2).jpg": "/ract/static/media/Lachha-Paratha-1 (2).22479eef9d4426b073d6.jpg",
     "static/media/Dal-Makhani-1.jpg": "/ract/static/media/Dal-Makhani-1.bb3b98ff1e803e5f5020.jpg",
+    "static/media/Cold-Coffee.png": "/ract/static/media/Cold-Coffee.c31b582d572ca9a59723.png",
     "static/media/245365353_105301948605724__n (1).jpg": "/ract/static/media/245365353_105301948605724_3540914780267730231_n (1).128b6411089c23ad43c7.jpg",
     "static/media/dhaba.jpg": "/ract/static/media/dhaba.7136b47bee1c524e9154.jpg",
     "static/media/dal-bati-churma-720x620.jpg": "/ract/static/media/dal-bati-churma-720x620.a37507c06b8e9c4064c8.jpg",
     "static/media/paneer-butter-masala-recipe-2.jpg": "/ract/static/media/paneer-butter-masala-recipe-2.3a528fadee913fd19397.jpg",
+    "static/media/Shree_Shyam-removebg-preview.png": "/ract/static/media/Shree_Shyam-removebg-preview.83375069cc5b4a668c19.png",
+    "static/media/tea.jpg": "/ract/static/media/tea.61b2468d0a7a1e4a3284.jpg",
+    "static/media/papad.jpg": "/ract/static/media/papad.e15ceb4e44d78361f173.jpg",
+    "static/media/Chilli Garlic Noodles.jpg": "/ract/static/media/Chilli Garlic Noodles.37e428ae8f7f1ad30b42.jpg",
     "index.html": "/ract/index.html",
-    "main.5cc5e290.css.map": "/ract/static/css/main.5cc5e290.css.map",
-    "main.5251e6cf.js.map": "/ract/static/js/main.5251e6cf.js.map"
+    "main.45cb26a9.css.map": "/ract/static/css/main.45cb26a9.css.map",
+    "main.05bdeabc.js.map": "/ract/static/js/main.05bdeabc.js.map"
   },
   "entrypoints": [
-    "static/css/main.5cc5e290.css",
-    "static/js/main.5251e6cf.js"
+    "static/css/main.45cb26a9.css",
+    "static/js/main.05bdeabc.js"
   ]
 }
