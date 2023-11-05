@@ -4,6 +4,7 @@ import Card from "./Card";
 import Carditem from './Carditem';
 
 import cardContest from "../context/notes/cardContest";
+import Footer from "../Footer";
 const Service = (props) => {
 
 
@@ -29,12 +30,12 @@ const Service = (props) => {
   return (
     <>
       <div className="my-5">
-        <h1 className="text-center">Our Services</h1>
+        <h1 className="text-center" style={{marginBottom:"5rem"}}>Our Services</h1>
       </div>
       <div className="container-fluid mb-5">
-        <div className="row">
+        <div className="row1" >
           <div className=" mx-auto">
-            <div className="row gy-5">
+            <div className="row1 gy-5">
              {
               Sdata.map((val,ind)=>{
                 return <Card key={ind} imgsrc = {val.imgsrc} title = {val.title} price = {val.price} description = {val.description} />
@@ -57,7 +58,9 @@ const Service = (props) => {
             </div>
           </div>
         </div>
+        
       </div>
+      <Footer/>
     </>
   );
 };

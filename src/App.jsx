@@ -39,7 +39,8 @@ function App() {
         <Route exact path="/service" element={<Service />} />
         {/* <Route path="/" element={<Navigate replace to="/" />} /> */}
       </Routes>
-      <Footer/>
+      
+      
       </CardState>
     </>
   );

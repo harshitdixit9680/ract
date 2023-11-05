@@ -7,13 +7,13 @@ import './components/Footer.css'
 const Footer = () => {
   return (
     <>
-      <div className="row">
+      <div className="row1">
         <div className=" mx-auto">
 
 
           <footer className="ftco-footer ftco-bg-dark ftco-section">
             <div className="container-fluid px-md-5 px-3">
-              <div className="row ">
+              <div className="row1 ">
                 <div className="col-md-3 col-lg-3">
                   <div className="ftco-footer-widget ">
                     <a className="navbar-brand" href="https://harshitdixit9680.github.io/ract/">
@@ -56,7 +56,7 @@ const Footer = () => {
                   </div>
                 </div>
               </div>
-              <div className="row">
+              <div className="row1">
                 <div className="col-md-12 text-center">
 
                   <p>

@@ -12,7 +12,7 @@ import papad from "../images/dices/papad.jpg";
 import Yellow_Dal from "../images/dices/yellow_dal.jpg";
 import romaali_roti from "../images/dices/Roomali Roti.jpg";
 import butter_roti from "../images/dices/Butter_Roti.jpg";
-import plain_naan from "../images/dices/plain_Naan.jpg";
+import plain_naan from "../images/dices/plain_Naan (1).jpg";
 import curd_rice from "../images/dices/steamed-rice-with-seafood-calamary-corns-carrot-peas-side-view (1) (1).jpg";
 // import Paneer_Butter_massala from "../images/dices/paneer-butter-masala-recipe-2.jpg";
 import lacha_paratha from "../images/dices/Lachha-Paratha-1 (2).jpg";

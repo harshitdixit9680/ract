@@ -1,6 +1,7 @@
 import React, { useState } from 'react'
 import { NavLink } from "react-router-dom";
 import Qr_Code from "../images/img/chart-removebg-preview.png";
+import Footer from '../Footer';
 const Contact = (props) => {
 
   const [data, setData] = useState({
@@ -36,7 +37,7 @@ const formSubmit = (e)=>{
 							<h3 class="mb-4 WOO">Home Delivery Service </h3>
 						</div>
             <div className=" mx-auto">
-              <div className="row">
+              <div className="row1">
                 <div className="col-md-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex justify-content-center flex-column">
                    
                   <h1>
@@ -60,7 +61,7 @@ const formSubmit = (e)=>{
                   
                   <img
                     src={Qr_Code}
-                    className="img-fluidis "
+                    className="img-fluid img-fluidish "
                     alt="homeimg"
                   />
                 </div>
@@ -95,7 +96,7 @@ const formSubmit = (e)=>{
       </div>
 
       <div className="container contact_div">
-        <div className="row">
+        <div className="row1">
           <div className="col-md-6 col-10 mx-auto" >
             <form  onSubmit={formSubmit}>
               <div className="mb-3">
@@ -124,7 +125,7 @@ const formSubmit = (e)=>{
         </div>
 
       </div>
-
+      <Footer/>
     </>
   )
 }

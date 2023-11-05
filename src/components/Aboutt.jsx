@@ -14,7 +14,7 @@ const Aboutt = (props) => {
 							<h3 className="mb-4 WOO">Shree Shyam Restaurant </h3>
 						</div>
             <div className=" mx-auto">
-              <div className="row">
+              <div className="row1">
                 <div className="col-md-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex justify-content-center flex-column">
                    
                   <h1>
@@ -39,7 +39,7 @@ const Aboutt = (props) => {
                 <div className="col-lg-6 order-1 order-lg-2 header-img">
                   <img
                     src={props.imgsrc}
-                    className="img-fluidi animated"
+                    className="img-fluidi img-flu animated"
                     alt="homeimg"
                   />
                 </div>
