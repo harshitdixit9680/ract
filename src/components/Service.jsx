@@ -37,8 +37,9 @@ const Service = (props) => {
           <div className=" mx-auto">
             <div className="row1 gy-5">
              {
-              Sdata.map((val,ind)=>{
-                return <Card key={ind} imgsrc = {val.imgsrc} title = {val.title} price = {val.price} description = {val.description} />
+              Sdata.map((card,ind)=>{
+                return <Card key={ind}   card={card}
+                showAlert={props.showAlert} />
               })
              }
 

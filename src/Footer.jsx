@@ -4,6 +4,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faMap } from '@fortawesome/free-regular-svg-icons'
 import { faPhone, faHeart } from '@fortawesome/free-solid-svg-icons'
 import './components/Footer.css'
+import facebook from "../src/images/img/Web capture_8-11-2023_18918_www.facebook.com.jpeg";
 const Footer = () => {
   return (
     <>
@@ -30,7 +31,7 @@ const Footer = () => {
                       <li className="d-flex"><div className="icon mr-2 d-flex justify-content-center align-items-center">
                         <FontAwesomeIcon icon={faMap} style={{ color: "#ffffff", }} />
                       </div><span> Dosa Mega Highway, Kota, Kota Dosa Highway, Indergarh, Bundi, Rajasthan 323613</span></li>
-                      <li className="d-flex"><div className="icon mr-2 d-flex justify-content-center align-items-center"><FontAwesomeIcon icon={faPhone} style={{ color: "#ffffff", }} /></div><span>+91-9680629249</span></li>
+                      <li className="d-flex"><div className="icon mr-2 d-flex justify-content-center align-items-center"><FontAwesomeIcon icon={faPhone} style={{ color: "#ffffff", }} /></div><span>+91-99999999999 </span></li>
 
                     </ul>
                   </div>
@@ -49,9 +50,13 @@ const Footer = () => {
                 <div className="col-md-3 col-lg-3">
                   <div className="ftco-footer-widget ">
 
-                    <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fshreeshyamrestaurant1&tabs=timeline&width=340&height=200&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="100%" height="220"
+                    <iframe src={facebook} width="100%" height="220"
                       title='how'
                       style={{ border: "none", overflow: "hidden", scrolling: "no", frameborder: "0", allowTransparency: "true", allow: "encrypted-media" }}></iframe>
+{/* 
+                    <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fshreeshyamrestaurant1&tabs=timeline&width=340&height=200&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="100%" height="220"
+                      title='how'
+                      style={{ border: "none", overflow: "hidden", scrolling: "no", frameborder: "0", allowTransparency: "true", allow: "encrypted-media" }}></iframe> */}
 
                   </div>
                 </div>
@@ -67,8 +72,8 @@ const Footer = () => {
               </div>
             </div>
           </footer>
-          <div className="callusftr apd"><a href="tel:7615810000"><i className="fa fa-phone"></i><span>APD : 9680629249</span></a></div>
-          <div className="callusftr apf"><a href="tel:7615810000"><i className="fa fa-phone"></i><span>APF : 8442034230</span></a></div>
+          <div className="callusftr apd"><a href="tel:7615810000"><i className="fa fa-phone"></i><span>APD : 9999999999</span></a></div>
+          <div className="callusftr apf"><a href="tel:7615810000"><i className="fa fa-phone"></i><span>APF : 9999999999</span></a></div>
 
         </div>
       </div>
