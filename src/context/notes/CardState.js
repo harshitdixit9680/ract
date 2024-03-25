@@ -3,7 +3,7 @@ import CardContext from "./cardContest"
 // import { useState } from "react";
 
 const CardState = (props)=>{
-  const host = "http://localhost:3000"
+  const host = "https://restaurant-backend-fam0.onrender.com"
 const cardIntial = [  ]
 
 const [cards, setcards] = useState(cardIntial)

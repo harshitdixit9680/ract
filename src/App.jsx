@@ -7,12 +7,12 @@ import About from "./components/About";
 import Contact from "./components/Contact";
 import Home from "./components/Home";
 import Service from "./components/Service";
+import Cancel from "./components/Cancel";
+import Success from "./components/Success";
 // import {Routes,Route,Navigate} from 'react-router-dom';
 import { Routes, Route } from "react-router-dom";
 import Footer from "./Footer";
 import CardState from "./context/notes/CardState";
-
-
 
 
 
@@ -37,11 +37,14 @@ function App() {
         <Route exact path="/about" element={<About />} />
         <Route exact path="/contact" element={<Contact />} />
         <Route exact path="/service" element={<Service />} />
+        <Route exact path="/sucess" element={<Success />} />
+        <Route exact path="/cancel" element={<Cancel />} />
         {/* <Route path="/" element={<Navigate replace to="/" />} /> */}
       </Routes>
       
       
       </CardState>
+
     </>
   );
 }

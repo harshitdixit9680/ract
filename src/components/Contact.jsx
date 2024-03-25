@@ -57,14 +57,14 @@ const formSubmit = (e)=>{
                 </div>
                 
 
-                <div className="col-lg-6 order-1 order-lg-2 header-img">
+                {/* <div className="col-lg-6 order-1 order-lg-2 header-img">
                   
                   <img
                     src={Qr_Code}
                     className="img-fluid img-fluidish "
                     alt="homeimg"
                   />
-                </div>
+                </div> */}
               </div>
             </div>
 
